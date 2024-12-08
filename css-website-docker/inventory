@@ -1,0 +1,5 @@
+[webserverubun]
+192.168.56.102 ansible_user=hideki
+192.168.56.103 ansible_user=hideki
+[webservercent]
+192.168.56.105 ansible_user=hideki
